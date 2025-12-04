@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main() {
   // Initialisation du tableau de nombres

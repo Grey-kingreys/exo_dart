@@ -12,7 +12,7 @@ void main() {
     String from = stdin.readLineSync()!.toUpperCase();
 
     print("Entrez une devices dans la laquelle vous voulez echanger votre argent entre (USD, GNF, EUR) : ");
-    String to = stdin.readLineSync()!.toUpperCase()!;
+    String to = stdin.readLineSync()!.toUpperCase();
 
     double resultat = 0;
     double taux = 0;
